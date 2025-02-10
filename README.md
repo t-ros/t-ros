@@ -6,6 +6,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact" alt="t-ros" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&locale=en" alt="t-ros" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&locale=en" alt="t-ros" /></p>
 
 <h3 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-ros" alt="t-ros" /></a> </p>
