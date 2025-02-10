@@ -6,7 +6,7 @@
 ### 🚀 About Me  
 🔹 Passionate about **electronics, programming, and computers**  
 🔹 Always learning new technologies and improving my skills  
-🔹 Interested in **embedded systems, AI, and automation**  
+🔹 Interested in **electricity, AI, and automation**  
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 🌍 **Connect with Me**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/diogo-teros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/t-ros" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/></a>
 </p>
 
