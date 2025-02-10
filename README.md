@@ -6,7 +6,7 @@
 ### 🚀 About Me  
 🔹 Passionate about **electronics, programming, and computers**  
 🔹 Always learning new technologies and improving my skills  
-🔹 Interested in **electricity, AI, and automation**  
+🔹 Interested in **Electricity, AI, and Automation**  
 
 ---
 
