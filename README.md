@@ -43,7 +43,7 @@
 
 ### 🌍 **Connect with Me**  
 <p align="center">
-  <a href="www.linkedin.com/in/diogo-monteiroo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/diogo-monteiro-b6786a274/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/t-ros" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/></a>
 </p>
 
