@@ -26,7 +26,7 @@
 ### 🏆 **Achievements**  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=t-ros&theme=onedark" alt="GitHub Trophies" alt="t-ros"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=t-ros&theme=onedark" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -34,9 +34,9 @@
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" alt="t-ros"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" alt="t-ros" />
+  <img src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
