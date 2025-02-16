@@ -40,7 +40,7 @@
 ### 🏆 **Achievements**  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-C,-UNKNOWN" alt="t-ros"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-Unknown" alt="t-ros"/>
   </a>
 </p>
 
