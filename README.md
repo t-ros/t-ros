@@ -43,7 +43,7 @@
 ### 🌍 **Connect with Me**  
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-monteiroo" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
