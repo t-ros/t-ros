@@ -1,5 +1,5 @@
 _<h1 align="center">Hey, I'm Teros 😎</h1>
-<h3 align="center">"An Engineer (in progress) from Portugal"</h3>
+<h3 align="center">"Engineering student with a passion for technology and automation."</h3>
 
 ---
 
