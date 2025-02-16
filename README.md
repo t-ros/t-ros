@@ -21,8 +21,8 @@ _<h1 align="center">Hey, I'm Teros 😎</h1>
   <a href="https://www.mathworks.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   </a>
-    <a href="https://www.qt.io/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
   </a>
     <a href="https://www.arduino.cc/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
