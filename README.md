@@ -52,7 +52,6 @@ _<h1 align="center">Hey, I'm Teros 😎</h1>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="t-ros" height="150"/>
 </div>
 
-
 ---
 
 ### 🌍 **Connect with Me**  
@@ -61,4 +60,5 @@ _<h1 align="center">Hey, I'm Teros 😎</h1>
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-_
+
+---
