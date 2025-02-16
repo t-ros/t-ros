@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Teros 😎</h1>
+_<h1 align="center">Hey, I'm Teros 😎</h1>
 <h3 align="center">"An Engineer (in progress) from Portugal"</h3>
 
 ---
@@ -18,8 +18,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-        <a href="https://www.mathworks.com/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <a href="https://www.mathworks.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   </a>
     <a href="https://www.qt.io/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
@@ -61,3 +61,4 @@
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+_
