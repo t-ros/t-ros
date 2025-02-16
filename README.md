@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Teros 😎
+<h1 align="center">Hey, I'm Teros 😎</h1>
 <h3 align="center">"Engineering student with a passion for technology and automation."</h3>
 
 ---
@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ **Languages & Tools**  
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
@@ -19,16 +19,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
 ### 🏆 **Achievements**  
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?,-C," alt="t-ros"/>
   </a>
-</p>
+</div>
 
 ---
 
@@ -41,10 +41,10 @@
 ---
 
 ### 🌍 **Connect with Me**  
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/diogo-monteiroo" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 ---
