@@ -47,11 +47,11 @@
 ---
 
 ### 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="t-ros"/>
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="t-ros"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="t-ros" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="t-ros" height="150"/>
+</div>
+
 
 ---
 
