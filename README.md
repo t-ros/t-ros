@@ -23,19 +23,18 @@
 
 ---
 
+### 📊 **GitHub Stats**  
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="t-ros" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="t-ros" height="150"/>
+</div>
+
+---
 ### 🏆 **Achievements**  
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?,-C," alt="t-ros"/>
   </a>
-</div>
-
----
-
-### 📊 **GitHub Stats**  
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="t-ros" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="t-ros" height="150"/>
 </div>
 
 ---
