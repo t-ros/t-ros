@@ -43,7 +43,15 @@
 ---
 
 ### 🏆 **Achievements**  
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&theme=darkhub&no-frame=true&no-bg=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&theme=flat&no-frame=true&no-bg=true&rank=-?"> <img height="200" align="center" src="https://github-profile-trophy.vercel.app/?username=t-ros&theme=flat&no-frame=true&no-bg=true" width="98%" alt="GitHub Achievements"/> </picture> </a>
+<div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&theme=darkhub&no-frame=true&no-bg=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&theme=flat&no-frame=true&no-bg=true">
+      <img height="200" align="center" src="https://github-profile-trophy.vercel.app/?username=t-ros&theme=flat&no-frame=true&no-bg=true&rank=-?" width="98%" alt="GitHub Achievements"/>
+    </picture>
+  </a>
+</div>
 
 ---
 
