@@ -26,7 +26,9 @@
 ### 📊 **GitHub Stats**  
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ---
+
 ### 🏆 **Achievements**  
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
