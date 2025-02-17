@@ -28,7 +28,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=dark&bg_color=00000000">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000" width="49%" alt="GitHub Stats"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000&hide=contribs" width="49%" alt="GitHub Stats"/>
   </picture>
 </a>
 
