@@ -24,13 +24,8 @@
 ---
 
 ### 📊 **GitHub Stats**  
-<p align="center">
-  <a href="https://github.com/t-ros">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000#gh-dark-mode-only&card_width=450&langs_count=6" alt="Top Langs (Dark)" width="45%" height="195px"/>
-  <a href="https://github.com/t-ros">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical&bg_color=00000000#gh-dark-mode-only" alt="GitHub Stats (Dark)" width="45%" height="195px"/>
-  </p>
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ---
 ### 🏆 **Achievements**  
 <div align="center">
