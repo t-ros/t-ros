@@ -24,19 +24,15 @@
 ---
 
 ### 📊 **GitHub Stats**  
-<p align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/t-ros">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-only" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only" />
-  </a>
+<a href="https://github.com/t-ros">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-only" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only" />
+</a>
 
-  <!-- Top Languages -->
-  <a href="https://github.com/t-ros">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000&card_width=320#gh-dark-mode-only" />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&card_width=320#gh-light-mode-only" />
-  </a>
-</p>
+<a href="https://github.com/t-ros">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000&card_width=320#gh-dark-mode-only" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&card_width=320#gh-light-mode-only" />
+</a>
 
 ---
 
