@@ -25,22 +25,11 @@
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <!-- Dark Mode -->
   <a href="https://github.com/t-ros">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&card_width=450&langs_count=6#gh-dark-mode-only" alt="Top Langs (Dark)" width="45%" height="195px"/>
-  </a>
   <a href="https://github.com/t-ros">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical&bg_color=00000000#gh-dark-mode-only" alt="GitHub Stats (Dark)" width="45%" height="195px"/>
   </a>
-
-  <!-- Light Mode -->
-  <a href="https://github.com/t-ros">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=default&bg_color=ffffff&card_width=450&langs_count=6#gh-light-mode-only" alt="Top Langs (Light)" width="45%" height="195px"/>
-  </a>
-  <a href="https://github.com/t-ros">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=default&bg_color=ffffff#gh-light-mode-only" alt="GitHub Stats (Light)" width="45%" height="195px"/>
-  </a>
-</p>
 
 ---
 ### 🏆 **Achievements**  
