@@ -45,7 +45,7 @@
 ### 🏆 **Achievements**   
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?&theme=oldie&no-bg=true" alt="t-ros"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?&theme=flat&no-bg=true" alt="t-ros"/>
   </a>
 </div>
 
