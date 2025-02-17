@@ -26,17 +26,17 @@
 ### 📊 **GitHub Stats**  
 <a href="https://github.com/t-ros">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=dark&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=dark&bg_color=00000000" width="45%">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000" width="45%">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=default&bg_color=00000000" width="45%" alt="GitHub Stats"/>
   </picture>
 </a>
 
 <a href="https://github.com/t-ros">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000&card_width=320">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&card_width=320">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&card_width=320" alt="Top Langs"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000&card_width=320" width="45%">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&card_width=320" width="45%">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&card_width=320" width="45%" alt="Top Langs"/>
   </picture>
 </a>
 
