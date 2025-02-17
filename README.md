@@ -48,7 +48,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?&theme=darkhub&no-bg=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?&theme=flat&no-bg=true">
-      <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?&theme=flat&no-bg=true" alt="t-ros"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?&theme=flat&no-bg=true&margin-w=4" alt="t-ros"/>
     </picture>
   </a>
 </div>
