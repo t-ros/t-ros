@@ -26,7 +26,7 @@
 ### 📊 **GitHub Stats**  
 <p align="center">
   <a href="https://github.com/t-ros">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000&card_width=450&langs_count=6#gh-dark-mode-only" alt="Top Langs (Dark)" width="45%" height="195px"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=00000000#gh-dark-mode-only&card_width=450&langs_count=6" alt="Top Langs (Dark)" width="45%" height="195px"/>
   <a href="https://github.com/t-ros">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical&bg_color=00000000#gh-dark-mode-only" alt="GitHub Stats (Dark)" width="45%" height="195px"/>
   </a>
