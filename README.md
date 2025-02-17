@@ -25,9 +25,10 @@
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="t-ros" width="45%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="t-ros" width="45%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=t-ros&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" width="45%" height="40px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t-ros&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="45%" height="40px"/>
 </p>
+
 
 ---
 ### 🏆 **Achievements**  
