@@ -1,16 +1,16 @@
-<h1 align="center">Hey, I'm Teros 😎</h1>
+<h1 align="center">Hey, I'm Teros</h1>
 <h3 align="center">"Engineering student with a passion for technology and automation."</h3>
 
 ---
 
-### 🚀 About Me  
+### About Me  
 🔹 Passionate about **electronics, programming, and computers**  
 🔹 Always learning new technologies and improving my skills  
 🔹 Interested in **Electricity, AI, and Automation**  
 
 ---
 
-### 🛠️ **Languages & Tools**  
+### **Languages & Tools**  
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 **GitHub Stats**  
+### **GitHub Stats**  
 <a href="https://github.com/t-ros">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=t-ros&show_icons=true&theme=dark&bg_color=00000000&hide=contribs">
@@ -42,7 +42,7 @@
 
 ---
 
-### 🏆 **Achievements**   
+### **Achievements**   
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌍 **Connect with Me**  
+### **Connect with Me**  
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-monteiroo" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>  </a>
