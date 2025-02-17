@@ -43,11 +43,7 @@
 ---
 
 ### 🏆 **Achievements**  
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=t-ros&rank=-?," alt="t-ros"/>
-  </a>
-</div>
+a href="https://github.com/ryo-ma/github-profile-trophy"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&theme=darkhub&no-frame=true&no-bg=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=t-ros&theme=flat&no-frame=true&no-bg=true"> <img height="200" align="center" src="https://github-profile-trophy.vercel.app/?username=t-ros&theme=flat&no-frame=true&no-bg=true" width="98%" alt="GitHub Achievements"/> </picture> </a>
 
 ---
 
