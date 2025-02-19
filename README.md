@@ -45,6 +45,7 @@
 </a>
 </div>
 
+<!--
 ---
 
 ### **Achievements**   
@@ -57,7 +58,7 @@
     </picture>
   </a>
 </div>
-
+ -->
 ---
 
 ### **Find Me Here**  
