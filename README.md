@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/52320bc1-b3ea-4f99-b0fe-d361648a4f8e" alt="teros_banner_gif" width="420">
+   <img src="https://github.com/user-attachments/assets/32d30ad9-4e1f-4936-b6c8-4362ceac7b25" width="420">
 </p>
 
 ---
